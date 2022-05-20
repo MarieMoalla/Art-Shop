@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "artshop"
+    }
+  },
+  "defaultProject": "artshop",
+  "cli": {
+    "analytics": "9576e11e-dad4-46c5-b751-b6ea145373c7"
+  }
 }
