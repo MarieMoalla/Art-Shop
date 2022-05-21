@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Contact } from 'src/app/Models/Contact';
+import {  NgbModal } from '@ng-bootstrap/ng-bootstrap';
 import { ContactService } from 'src/app/Services/contact.service';
 
 @Component({
